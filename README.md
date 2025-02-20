@@ -4,6 +4,11 @@
 En este repositorio encontrarás una lista de ejercicios prácticos para el curso de Backend II.
 Cada ejercicio tendrá una dificultad diferente para que vayas escalando, aprendiendo y creando.
 
+## **Instrucciones para el estudiante**
+
+Para trabajar en este repositorio deberan realizar un `FORK` directamente en su propio repositorio y trabajar en un repositorio por ejercicio. La intención de realizar un `FORK` es para que siempre tengas las instrucciones y ejercicios a mano.
+
+
 Este módulo tiene como objetivo introducir a los estudiantes en la programación utilizando el ecosistema .NET y el lenguaje C#. A lo largo del módulo, los estudiantes adquirirán una comprensión más sólida de los fundamentos de programación, el desarrollo de aplicaciones backend con .NET y .NET Core, el uso de bases de datos con Entity Framework Core, y las mejores prácticas en seguridad, pruebas y un abre bocas a despliegues en la nube. 
 
 ## ¿Cuál es la competencia que obtiene el estudiante al finalizar el módulo? 
