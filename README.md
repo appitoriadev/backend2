@@ -1,75 +1,57 @@
 # Módulo BackEnd II [.Net]
 > **[Nodo - EAFIT](https://es.nodoeafit.com/)**
 
-En este repositorio encontrarás una lista de ejercicios prácticos para el curso de Backend II.
+En este repositorio encontrarás una lista de ejercicios prácticos para el módulo de Backend II.
 Cada ejercicio tendrá una dificultad diferente para que vayas escalando, aprendiendo y creando.
+
+[más información](./Info/info.md)
 
 ## **Instrucciones para el estudiante**
 
 Para trabajar en este repositorio deberan realizar un `FORK` directamente en su propio repositorio y trabajar en un repositorio por ejercicio. La intención de realizar un `FORK` es para que siempre tengas las instrucciones y ejercicios a mano.
 
+<details>
+
+### 1. 
 <center><img src="./imgs/Instrucciones1.png" alt="Instrucciones pt1"></center>
+
+### 2.
 <center><img src="./imgs/Instrucciones2.png" alt="Instrucciones pt2"></center>
 
+</details>
 
-Este módulo tiene como objetivo introducir a los estudiantes en la programación utilizando el ecosistema .NET y el lenguaje C#. A lo largo del módulo, los estudiantes adquirirán una comprensión más sólida de los fundamentos de programación, el desarrollo de aplicaciones backend con .NET y .NET Core, el uso de bases de datos con Entity Framework Core, y las mejores prácticas en seguridad, pruebas y un abre bocas a despliegues en la nube. 
+## Menú de navegación.
 
-## ¿Cuál es la competencia que obtiene el estudiante al finalizar el módulo? 
+Los siguientes contenidos son complementos para el módulo de Backend II de Nodo - Eafit.
 
-Los participantes desarrollarán las habilidades necesarias para construir aplicaciones modernas y escalables, alineadas con los estándares de la industria. 
+1. Unidad 1: Fundamentos de .NET y C#
 
-#### **Al finalizar el módulo, los estudiantes serán capaces de:**
+    a. Tema  1: Introducción a .NET y C#
 
-* Comprender los principios fundamentales de la programación en C# y el entorno .NET.
-* Diseñar e implementar aplicaciones utilizando Programación Orientada a Objetos (POO).
-* Crear y consumir APIs REST con ASP.NET y aplicar patrones de arquitectura backend.
-* Utilizar bases de datos relacionales con Entity Framework Core.
-* Implementar autenticación y seguridad en aplicaciones web.
-* Realizar pruebas unitarias e integración para mejorar la calidad del software.
-* Contenerizar aplicaciones con Docker y desplegarlas en entornos de producción.
-* Automatizar flujos de integración y despliegue continuo (CI/CD).
-* Monitorear y optimizar aplicaciones con herramientas de logging y telemetría.
-* Desplegar aplicaciones en la nube utilizando Azure o AWS.
+    b. Tema  2: Programación Orientada a Objetos (POO) en C#
 
-### ¿Cuál es el resultado de aprendizaje que se evidencia al finalizar el módulo? 
+2. Unidad 2: Desarrollo de APIs con ASP.NET
 
-Al finalizar el módulo, el estudiante habrá desarrollado las competencias necesarias para diseñar, construir y desplegar aplicaciones backend modernas con .NET y C#. A través del reto final, donde deberán entregar una solución funcional basada en los conceptos aprendidos, se evidenciarán los siguientes resultados de aprendizaje:
+    a. Tema  3: ASP.NET y Arquitectura de Aplicaciones Backend
 
-1. Comprensión de los Fundamentos de Programación
+    b. Tema  4: Entity Framework Core y Bases de Datos
 
-    a. El estudiante podrá escribir código en C#, aplicando estructuras de control, manejo de variables y operadores.
+3. Unidad 3: Seguridad y Buenas Prácticas
 
-    b. Implementará principios de Programación Orientada a Objetos (POO), utilizando clases, objetos, herencia, encapsulación e interfaces. 
+    a. Tema  5: Seguridad y Autenticación con Identity Framework
 
-2. Desarrollo de Aplicaciones Web Backend
+    b. Tema  6: Pruebas Unitarias e Integración
 
-    a. Creará una API REST funcional con ASP.NET, aplicando arquitectura en capas y buenas prácticas de desarrollo. 
+4. Unidad 4: Infraestructura y Despliegue*
 
-    b. Implementará controladores, rutas y manejo de peticiones HTTP. 
+    a. Tema  7: Docker y Contenerización
 
-3. Gestión y Persistencia de Datos 
+    b. Tema  8: Orquestación con Docker Compose
 
-    a. Diseñará bases de datos utilizando Entity Framework Core.
+5. Unidad 5: Automatización y Producción
 
-    b. Aplicará migraciones y consultas con LINQ para gestionar la información. 
+    a. Tema  9: Monitoreo y Logging
 
-4. Implementación de Seguridad y Autenticación
+    b. Tema  10: CI/CD con GitHub Actions
 
-    a. Configurará autenticación y autorización en una API utilizando Identity Framework y JWT.
-
-    b. Aplicará prácticas de seguridad en el desarrollo de aplicaciones web.
-
-5. Pruebas y Validación del Código
-
-    a. Escribirá pruebas unitarias con xUnit y utilizará NSubstitute para pruebas con dependencias.
-
-    b. Realizará pruebas de integración en una aplicación ASP.NET.
-
-6. Despliegue y Contenerización de Aplicaciones
-    a. Contenerizará la aplicación utilizando Docker y gestionará servicios con Docker Compose.
-    
-    b. Desplegará su solución en un entorno en la nube (Azure o AWS).
-
-7. Automatización y Monitoreo
-    
-    a. Implementará logging con Serilog y monitoreo con OpenTelemetry para analizar el rendimiento de la aplicación.
+    c. Tema  11: Despliegue en la Nube
