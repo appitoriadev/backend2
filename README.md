@@ -8,6 +8,9 @@ Cada ejercicio tendrá una dificultad diferente para que vayas escalando, aprend
 
 Para trabajar en este repositorio deberan realizar un `FORK` directamente en su propio repositorio y trabajar en un repositorio por ejercicio. La intención de realizar un `FORK` es para que siempre tengas las instrucciones y ejercicios a mano.
 
+<center><img src="./imgs/Instrucciones1.png" alt="Instrucciones pt1"></center>
+<center><img src="./imgs/Instrucciones2.png" alt="Instrucciones pt2"></center>
+
 
 Este módulo tiene como objetivo introducir a los estudiantes en la programación utilizando el ecosistema .NET y el lenguaje C#. A lo largo del módulo, los estudiantes adquirirán una comprensión más sólida de los fundamentos de programación, el desarrollo de aplicaciones backend con .NET y .NET Core, el uso de bases de datos con Entity Framework Core, y las mejores prácticas en seguridad, pruebas y un abre bocas a despliegues en la nube. 
 
