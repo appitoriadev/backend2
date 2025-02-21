@@ -1,4 +1,4 @@
-# **Ejercicio Práctico: Construyendo una Web API Segura y Probada en .NET 8/9**
+# **Ejercicio Práctico: Construyendo una Web API Segura y Probada en .NET**
 
 ## **Introducción**
 En este ejercicio desarrollarás una API RESTful en **ASP.NET Core** aplicando arquitectura en capas, bases de datos con **Entity Framework Core**, autenticación con **Identity Framework y JWT**, y pruebas unitarias e integración con **xUnit y NSubstitute**.
